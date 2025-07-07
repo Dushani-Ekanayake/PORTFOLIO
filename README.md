@@ -18,5 +18,5 @@ Hi there! I’m Dushani Ekanayake,a second-year Computer Science undergraduate a
  ## 📬 Contact Me
 - [LinkedIn](www.linkedin.com/in/dushani-ekanayake-1ba939299)
 
-Feel free to connect with me — let’s build, learn, and grow together! 🌱✨
+ let’s build, learn, and grow together! 🌱✨
 
