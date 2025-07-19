@@ -15,13 +15,13 @@ I am Dushani Ekanayake, a passionate developer with interests in front-end and b
 
 ## Demo
 
-You can view my live portfolio here:  
+You can view my live portfolio here:  https://dushani-ekanayake.github.io/PORTFOLIO/
 
 
 ## Contact
 
 Feel free to reach out to me:  
-- GitHub:  
+- GitHub:  https://dushani-ekanayake.github.io/PORTFOLIO/
 - LinkedIn:  www.linkedin.com/in/dushani-ekanayake
 - Email: kaviiekanayake2@gmail.com
 
